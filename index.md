@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
+### 欢迎使用
 
-You can use the [editor on GitHub](https://github.com/killerwzb/killerwzb.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 测试个人网站
-
-本网站为测试建立github pages使用
+欢迎使用本演示网站
